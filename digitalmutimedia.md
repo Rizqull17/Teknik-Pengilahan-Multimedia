@@ -332,3 +332,7 @@ di semua tingkatan dari avant garde artistik hingga komersial murni._
 
 ## Delivery of Multimedia
 
+**The applications we have mentioned so far are all basically concerned with presenting material, using a combination of media,
+in an interactive way. Some means of delivery is required, to get
+this material from its producer to its consumers. It is useful to
+distinguish between online and offline delivery.**
